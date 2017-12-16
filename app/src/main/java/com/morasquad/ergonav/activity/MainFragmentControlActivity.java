@@ -115,6 +115,7 @@ public class MainFragmentControlActivity extends AppCompatActivity {
      * Load navigation menu header information
      * like background image, profile image
      * name, website, notifications action view (dot)
+     * after successsul git hub session
      */
     private void loadNavHeader() {
         // name, website
